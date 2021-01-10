@@ -1,3 +1,5 @@
+![@coverage]{https://img.shields.io/badge/Platform-Discord-blue/?style=flat&logo=discord&color=blue}
+
 # Intro
 These batch scripts simply upload any screenshot you take to a discord server automatically and also download screenshots or pictures others put in discord server.
 
@@ -34,9 +36,9 @@ _add as many channels as you like on newlines_
 - Join the discord server and get 'webhook' from admin
 #### Using Scripts
 1. Put DiscordMan on your desktop or documents or any folder in your 
-'''
+~~~
 C:\Users\PCNAME\ANYFOLDER\*Place Here*
-'''
+~~~
 2. Put your discord email, password and webhook in Profile.txt  
 you may use any username you like
 3. Double click DiscordMan to run your service  
