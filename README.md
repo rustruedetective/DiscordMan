@@ -1,4 +1,5 @@
-![@coverage]{https://img.shields.io/badge/Platform-Discord-blue/?style=flat&logo=discord&color=blue}
+![@coverage](https://img.shields.io/badge/Platform-Discord-blue/?style=flat&logo=discord&color=blue)
+
 
 # Intro
 These batch scripts simply upload any screenshot you take to a discord server automatically and also download screenshots or pictures others put in discord server.
@@ -51,6 +52,7 @@ _it may not work well on first try, try again after closing all scripts_
 
 
 # Credits And Special Thanks to
+[GitHub Pages](https://pages.github.com/)  
 https://github.com/tardisx  
 https://github.com/Seklfreak
 
