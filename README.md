@@ -26,7 +26,7 @@ The followind OS is required:-
 #### Using Scripts
 1. Download the 'dau' and 'discord-image-downloader-go-windows-amd64' binaries (dau.exe and discord-image-downloader-go-windows-amd64.exe) (from the links given in requirement) and put them in the bin folder
 2. Put the channel ids in the Profile.txt folder below Channels# in this format:-  
-111111111111111111 ../Downloads  
+111111111111111111 = ../Downloads  
 _add as many channels as you like on newlines_
 3. Distribute the DiscordMan to your fellows
 4. The webhooks should be distributed to everyone, although you can distribute different webhooks to them
