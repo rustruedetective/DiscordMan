@@ -1,4 +1,4 @@
-![@version](https://img.shields.io/badge/Platform-Discord-blue/?style=flat&logo=discord&color=blue)
+![version](https://img.shields.io/badge/Platform-Discord-blue/?style=flat&logo=discord&color=blue)
 
 
 # Intro
