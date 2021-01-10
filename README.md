@@ -52,7 +52,9 @@ _it may not work well on first try, try again after closing all scripts_
 
 
 # Credits And Special Thanks to
-[GitHub Pages](https://pages.github.com/)  
+[tardisx](https://github.com/tardisx)  
+[Seklfreak](https://github.com/Seklfreak)  
+  
 https://github.com/tardisx  
 https://github.com/Seklfreak
 
